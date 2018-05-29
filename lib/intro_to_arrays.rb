@@ -16,7 +16,7 @@ def third_element
   arr[2]
 end
 
-def my_last_element
+def last_element
   arr_last = ["rar", "eminem", "taylor_swift"]
   arr[-1]
 end
