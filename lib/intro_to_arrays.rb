@@ -6,8 +6,7 @@ def array_with_two_elements
   my_two_array = [1,2]
 end
 
-def first_element
-  arr = ["taylor_swift", "eminem", 4]
+def first_element(array)
   arr[0]
 end
 
