@@ -11,7 +11,7 @@ def first_element
   arr[0]
 end
 
-def my_third_element
+def third_element
   arr = ["rar", "eminem", "taylor_swift"]
   arr[2]
 end
