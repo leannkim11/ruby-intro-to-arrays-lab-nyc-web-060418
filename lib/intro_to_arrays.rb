@@ -6,15 +6,15 @@ def array_with_two_elements
   my_two_array = [1,2]
 end
 
-def first_element(["taylor_swift,1,2,3"])
+def first_element(arr)
   arr[0]
 end
 
-def third_element([1,2,"taylor_swift"])
+def third_element(arr)
   arr[2]
 end
 
-def last_element([1,2,"taylor_swift"])
+def last_element(arr)
   arr[-1]
 end
 
