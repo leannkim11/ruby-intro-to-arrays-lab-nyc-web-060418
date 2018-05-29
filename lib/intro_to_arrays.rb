@@ -14,8 +14,7 @@ def third_element(array)
   arr[2]
 end
 
-def last_element
-  arr_last = ["rar", "eminem", "taylor_swift"]
+def last_element(array)
   arr[-1]
 end
 
