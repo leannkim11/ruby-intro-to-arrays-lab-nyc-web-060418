@@ -1,4 +1,4 @@
-my_new_array = new.Array
+my_new_array = Array.new
 
 my_two_array = [1,2]
 
