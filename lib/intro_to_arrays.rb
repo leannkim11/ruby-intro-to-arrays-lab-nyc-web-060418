@@ -10,8 +10,7 @@ def first_element(array)
   arr[0]
 end
 
-def third_element
-  arr = ["rar", "eminem", "taylor_swift"]
+def third_element(array)
   arr[2]
 end
 
